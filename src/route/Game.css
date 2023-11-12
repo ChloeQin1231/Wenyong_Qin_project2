@@ -1,0 +1,17 @@
+.tip {
+  color: rgb(28, 192, 129)
+}
+
+.win {
+  color: rgb(72, 181, 224)
+}
+
+.lose {
+  color: rgb(236, 104, 104)
+}
+
+.tc {
+  height: 50px;
+  text-align: center;
+  font-size: 18px;
+}

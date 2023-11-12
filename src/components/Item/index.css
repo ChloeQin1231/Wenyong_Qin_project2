@@ -1,0 +1,25 @@
+.item {
+    font-size: 1.5em;
+    text-align: center;
+    border: 3px solid;
+    border-color: #e5e4e9;
+    background-color: #FBFCFF;
+    line-height: 45px;
+    border-radius: 10px;
+}
+
+.active{
+    border-color:aqua;
+}
+
+.correct{
+    background-color: rgb(37, 212, 116);
+}
+
+.elsewhere{
+    background-color: burlywood;
+}
+
+.wrong{
+    background-color: #8f94a0;
+}

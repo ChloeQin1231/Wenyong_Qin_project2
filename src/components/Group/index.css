@@ -1,0 +1,15 @@
+.screen {
+    display: grid;
+    grid-template-columns: repeat(6, 50px);
+    grid-template-rows: repeat(6, 50px);
+    justify-content: center;
+    grid-gap: 10px 10px;
+}
+
+.screen-hard {
+    display: grid;
+    grid-template-columns: repeat(7, 11.5%);
+    grid-template-rows: repeat(5, 50px);
+    justify-content: center;
+    grid-gap: 30px 10px;
+}
